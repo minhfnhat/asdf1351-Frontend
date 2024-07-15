@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock your true potential with innovative solutions tailored for your industry.",
+        "title": "Revolutionize Your Workday"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workday",
+  "subtitle": "Unlock your true potential with innovative solutions tailored for your industry."
+}
